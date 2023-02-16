@@ -7,6 +7,6 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 * :sunglasses:  Cool guy (real)
 * :star: Stars are always appreciated.
 
-#Activity
+### Activity
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/895141545404166234)](https://discord.com/users/895141545404166234)

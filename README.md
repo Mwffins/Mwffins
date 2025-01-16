@@ -1,6 +1,6 @@
 # Hi there, I'm Moof! 👋
 
-I'm a **self-taught software developer** and **front-end web developer** who learning and building cool things.  
+I'm a **self-taught software developer** and **front-end web developer** who enjoys learning and building cool things.  
 
 ---
 
